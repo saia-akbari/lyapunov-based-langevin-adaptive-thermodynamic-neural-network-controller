@@ -1,0 +1,22 @@
+{
+    "final_time": 30,
+    "time_step_delta": 0.005,
+    "num_states": 5,
+
+    "ke": 100, 
+    "mean": 0,
+    "covariance": 1,
+    
+    "thetabar": 100,
+    "forgetting_factor": 0.001,   
+    "learning_rate": 1,
+    "kT": 0.03,
+    
+    "num_inputs": 5,
+    "num_outputs": 5,
+
+    "num_layers": 9,
+    "num_neurons": 10,
+  
+    "diffusion_diagonal_value": 1 
+}
